@@ -1,49 +1,30 @@
-# Vonge
+# Top 3 Art Mediums (for me) 
+#### Here, I'll be listing my three favorite art mediums that I have tried so far, as well as some examples of my art for each medium. 
+## 3. Charcoal
+![image](Untitled103_20221004053030.png)
+<p align = "center">
+<sub>
+Some art I've made with charcoal.
+</sub>
+</p>
+One of my favorite art mediums that I discovered recently is charcoal. Because blending is so easy, I found it a very fun medium to work with, as all I would need are charcoal pencils, kneaded eraser, and a blending stump.
 
-Vonge is a Personal portfolio/blog site template for Jekyll. Browse through a [live demo](https://jazzed-kale.cloudvent.net/).
-Increase the web presence of your brand with this configurable theme.
+## 2. Oil Pastels
+![image](Untitled105_20221004053654.png)
+<p align = "center">
+<sub>
+Art I've done with Oil Pastels. Fun fact: the hand drawing was done using only three colors in addition to white and black: <b> red, yellow, and blue. </b> 
+</sub>
+</p>
+Just like with Charcoal, I enjoy using Oil Pastels due to how easily I can blend them. It's honestly much more tedious to work with than charcoal, as I only have a limited set of colors and have to find the right colors to mix to achieve the colors I want (especially when I need to color match to a real object). Despite this however, I find this medium to be extremely enjoyable once you roughly get the hang of it. 
 
-![Vonge template screenshot](_screenshot.png)
-
-Vonge was made by [CloudCannon](http://cloudcannon.com/), the JAMStack Cloud CMS.
-The component library is built and maintained for use with [Bookshop](https://github.com/cloudcannon/bookshop/)
-
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Community](https://cloudcannon.com/community/).
-
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/vonge-jekyll-bookshop-template)
-
-## Features
-
-* Component library for website building
-* Fully configurable Website
-* Pre-built pages
-* Pre-styled components
-* Blog
-* Category pages
-* Testimonials
-* Portfolio
-* Live editing with [CloudCannon](http://cloudcannon.com/)
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* Search engine optimisation
-
-## Develop
-
-Vonge was built with [Jekyll](http://jekyllrb.com/) version 4.2.0, but should support newer versions as well.
-
-Install the dependencies for Bookshop:
-
-~~~bash
-$ npm install
-~~~
-
-Install the Jekyll dependencies with [Bundler](http://bundler.io/):
-
-~~~bash
-$ npm run install-jekyll
-~~~
-
-Run the website:
-
-~~~bash
-$ npm start
-~~~
+## 1. Digital
+![image](sdf%20.png)
+<p align = "center">
+<sub>
+Some of my digital art. 
+</sub>
+</p>
+Last but not least is my favorite medium, digital. To be honest, I don't think that I'm particularly great at using digital art. In fact, I feel like the other two listed mediums yield better results for me. Nevertheless, the versatility and convenience that comes from the wide selection of tools and brushes makes digital art fun. It's also the medium that I used the most consistently for the longest time, as I have been drawing digitally since 6th grade.
+  
+You can find more of my art on my [twitter account](twitter.com/cururinoir) (though beware, it's a fandom account...)
